@@ -13,7 +13,7 @@ class Module implements AutoloaderProviderInterface, ConfigProviderInterface
 {
     public function getAutoloaderConfig()
     {
-
+        
     }
 
     public function getConfig()
